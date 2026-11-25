@@ -1,0 +1,3 @@
+Diego Urra
+3D
+Programa de Python para practicar uso de Visual Code y Git para organizar y publicar el código.
